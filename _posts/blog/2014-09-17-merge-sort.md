@@ -114,4 +114,4 @@ category: blog
 ## 原文 ##
 [MoreWindows](http://blog.csdn.net/morewindows/article/details/6678165)
 
-[RogerAce]:    http://rogerace.github.io  "RogerAce"
+[RogerAce]:    http://lirenlong.github.io  "RogerAce"

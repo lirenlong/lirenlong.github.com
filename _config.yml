@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: rogerace.github.com
-url: http://rogerace.github.com
+title: lirenlong.github.io
+url: http://lirenlong.github.io
 feed: /atom.xml
-author_info: <a href="http://rogerace.github.com/">RogerAce</a>
+author_info: <a href="http://lirenlong.github.io/">RogerAce</a>

@@ -9,4 +9,4 @@ description: 编译原理是集日月之精华的领域，无数优良的编程�
 
 从较为简单的词法分析入手，然后完成语法分析的[实现][project]。
 
-[project]:  https://github.com/rogerAce/smallCompiler
+[project]:  https://github.com/lirenlong/smallCompiler
