@@ -5,7 +5,7 @@ category: opinion
 description: 美丽的河合美奈子作曲
 ---
 
-<embed src="http://player.youku.com/player.php/sid/XMTM4NTk4NTY0MA==/v.swf" allowFullScreen="true" quality="high" width="240" height="200" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<!-- <embed src="http://player.youku.com/player.php/sid/XMTM4NTk4NTY0MA==/v.swf" allowFullScreen="true" quality="high" width="240" height="200" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed> -->
 
 <iframe height=498 width=510 src="http://player.youku.com/embed/XMTM4NTk4NTY0MA==" frameborder=0 allowfullscreen></iframe>
 
