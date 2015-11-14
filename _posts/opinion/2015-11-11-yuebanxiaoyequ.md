@@ -7,6 +7,8 @@ description: 美丽的河合美奈子作曲
 
 <embed src="http://player.youku.com/player.php/sid/XMTM4NTk4NTY0MA==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
+<iframe height=498 width=510 src="http://player.youku.com/embed/XMTM4NTk4NTY0MA==" frameborder=0 allowfullscreen></iframe>
+
 一段富有情感的旋律。
 
 * 被辜负的人，听到的是凄凉
