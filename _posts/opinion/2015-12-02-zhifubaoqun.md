@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 谈谈刚需和360影视
+title: 体验支付宝群
 category: opinion
-description: 一个看起来很简单的需求，做起来真的有那么困难吗，到底是怎么回事？
+description: 最近体验了一下支付宝的群功能，记录一下，以备后续观察。
 ---
 
 ## 支付宝群
